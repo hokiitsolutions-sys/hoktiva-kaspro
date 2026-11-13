@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "HOKTIVA KasPro — Enterprise Financial Suite",
+  "short_name": "KasPro",
+  "description": "Aplikasi pencatatan dan pengelolaan keuangan HOKTIVA KasPro.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
