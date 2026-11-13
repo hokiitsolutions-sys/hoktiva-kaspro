@@ -1,3 +1,4 @@
+
 {
   "id": "/hoktiva-kaspro/",
   "name": "HOKTIVA KasPro",
@@ -5,7 +6,7 @@
   "description": "Aplikasi pengelolaan keuangan usaha HOKTIVA KasPro.",
   "lang": "id-ID",
   "start_url": "/hoktiva-kaspro/",
-  "scope": "/hoktiva-kaspro/"
+  "scope": "/hoktiva-kaspro/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#1e1b4b",
